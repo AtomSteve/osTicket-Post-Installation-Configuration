@@ -104,3 +104,22 @@ next we will be making SLA's.  Back to Admin Panel -> Manage -> SLA -> create
 
 ![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/cd50610e-368a-4ee5-a448-13a0aac4a792)
 
+
+</p>
+<br />
+
+Now we need to Configure/create Topics.  Click on Admin Panel -> Manage -> Help Topics -> Add New Help Topic
+
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+  </p>
+<p>
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/39942aaa-7098-4db0-808c-462af796e1d3)
+
+
+
+
