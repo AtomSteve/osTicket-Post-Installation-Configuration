@@ -34,10 +34,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Log into osTicket with your Administrator credentials.  First thing we are going to configure is Roles.  Got to Admin Panel -> Agents -> Roles, then proceed to make a role called "supreme Admin
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/ab06a3a8-8aac-4fb0-a76f-257382c4a527)![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/26eba479-ee00-4aa2-b526-aff55779e31b)
+
+
+
 </p>
 <br />
 
