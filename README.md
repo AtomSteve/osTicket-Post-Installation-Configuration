@@ -49,8 +49,11 @@ Log into osTicket with your Administrator credentials.  First thing we are going
 
 <p>
 now go to Admin Panel -> Agents -> Departents -> press add team, and create 
-  -Level support
-  -Leve2 support
+
+- Level I
+- Level II
+
+  
 </p>
 <p>
 
@@ -70,11 +73,34 @@ After creating the support departments, we need to allow anyone to create ticket
 </p>
 <p>
 
-Next we will creat some Agents.  Click on Admin Panel -> Agents -> Add New.  Jane and John (These are just Examples)
+Next we will creat some Agents (Workers).  Click on Admin Panel -> Agents -> Add New.  Jane and John (These are just Examples)
 
 </p>
 <p>
 
 ![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/b11bd4bb-e6fd-4cc3-bf19-65d2793bd0e2)
 
+</p>
+<br />
+
+Now we need to create some Users (customers).  Navigate to Agent Panel -> Users -> Add New.  Karen and Ken (example)
+
+</p>
+<p>
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/ec384a44-2fd4-4149-88f1-caf182e48433)
+
+</p>
+<br />
+
+next we will be making SLA's.  Back to Admin Panel -> Manage -> SLA -> create
+
+- Sev-A (1 HOURS, 24/7)
+- Sev-B (4 HOURS, 24/7)
+- Sev-C (8 HOURS, business hours)
+  
+  </p>
+<p>
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/cd50610e-368a-4ee5-a448-13a0aac4a792)
 
