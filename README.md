@@ -121,5 +121,12 @@ Now we need to Configure/create Topics.  Click on Admin Panel -> Manage -> Help 
 ![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/39942aaa-7098-4db0-808c-462af796e1d3)
 
 
+</p>
+<br />
+
+Awesome! now your Configuration is Complete
+
+
+
 
 
