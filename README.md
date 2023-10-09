@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - configure Users
 - Configure SLA
 - Configure Help Topics
-- 
+  
 <h2>Configuration Steps</h2>
 
 <p>
@@ -48,17 +48,33 @@ Log into osTicket with your Administrator credentials.  First thing we are going
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+now go to Admin Panel -> Agents -> Departents -> press add team, and create 
+  -Level support
+  -Leve2 support
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/22da4f4e-69dd-4648-9395-8232a9a37386)
+
+
 </p>
 <br />
 
+After creating the support departments, we need to allow anyone to create tickets.  Go to Admin Panel -> Settings -> User -> Make sure the "Registration Required" box is left unchecked
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/ae7835da-eeae-4f41-82bd-a3d5040a0588)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+Next we will creat some Agents.  Click on Admin Panel -> Agents -> Add New.  Jane and John (These are just Examples)
+
 </p>
-<br />
+<p>
+
+![image](https://github.com/AtomSteve/osTicket-Post-Installation-Configuration/assets/147112183/b11bd4bb-e6fd-4cc3-bf19-65d2793bd0e2)
+
+
